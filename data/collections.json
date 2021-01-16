@@ -1,0 +1,1022 @@
+[
+  {
+    "Name": "Armadylean I",
+    "Level": 81,
+    "Artefacts": [
+      {
+        "Name": "Ikovian gerege",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Toy glider",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Toy war golem",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Avian song-egg player",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Keshik drum",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Morin khuur",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Aviansie dreamcoat",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ceremonial plume",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Peacocking parasol",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Armadylean II",
+    "Level": 98,
+    "Artefacts": [
+      {
+        "Name": "Hawkeye lens multi-vision scope",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Talon-3 razor wing",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Prototype gravimeter",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Prototype gravimeter",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Songbird recorder",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dayguard shield",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Stormguard gerege",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Golem heart",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Golem instruction",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Armadylean III",
+    "Level": 118,
+    "Artefacts": [
+      {
+        "Name": "Blackfire lance",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Nightguard shield",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Flat cap",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Night owl flight goggles",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Prototype godbow",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Prototype godstaff",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Prototype godsword",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Chuluu stone",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Quintessence counter",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Spherical astrolabe",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Dragonkin I",
+    "Level": 99,
+    "Artefacts": [
+      {
+        "Name": "Pasaha",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ritual bell",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Kilaya",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Vazara",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Death mask",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dragonkin calendar",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dragonkin staff",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Dragonkin II",
+    "Level": 102,
+    "Artefacts": [
+      {
+        "Name": "Dragon scalpel",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Protective goggles",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dragon burner",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Orthenglass flask",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Dragonkin III",
+    "Level": 108,
+    "Artefacts": [
+      {
+        "Name": "Meditation pipe",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Personal totem",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Singing bowl",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Lingam stone",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Master control",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Dragonkin IV",
+    "Level": 120,
+    "Artefacts": [
+      {
+        "Name": "Xolo hard hat",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Xolo pickaxe",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Xolo shield",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Xolo spear",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Gold dish",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Raksha idol",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Green Gobbo Goodies I",
+    "Level": 83,
+    "Artefacts": [
+      {
+        "Name": "Ekeleshuun blinder mask",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Narogoshuun 'Hob-da-Gob' ball",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Rekeshuun war tether",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Thorobshuun battle standard",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Yurkolgokh stink grenade",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Green Gobbo Goodies II",
+    "Level": 97,
+    "Artefacts": [
+      {
+        "Name": "High priest crozier",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "High priest mitre",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "High priest orb",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Idithuun horn ring",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Garagorshuun anchor",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Green Gobbo Goodies III",
+    "Level": 119,
+    "Artefacts": [
+      {
+        "Name": "Dorgeshuun spear",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Huzamogaarb chaos crown",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Saragorgak star crown",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Drogokishuun hook sword",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Horogothgar cooking pot",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Da Boss Man' sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Red Rum Relics I",
+    "Level": 94,
+    "Artefacts": [
+      {
+        "Name": "Ork cleaver sword",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ogre Kyzaj axe",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Beastkeeper helm",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Nosorog!' sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Red Rum Relics II",
+    "Level": 110,
+    "Artefacts": [
+      {
+        "Name": "Ourg megahitter",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ourg tower/goblin cower shield",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Forged in War' sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Hobgoblin mansticker",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Red Rum Relics III",
+    "Level": 119,
+    "Artefacts": [
+      {
+        "Name": "Kal-i-kra chieftain crown",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Kal-i-kra mace",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Kal-i-kra warhorn",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Da Boss Man' sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Saradominist I",
+    "Level": 56,
+    "Artefacts": [
+      {
+        "Name": "Frying pan",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Hallowed lantern",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ceremonial unicorn ornament",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ceremonial unicorn saddle",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Everlight harp",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Everlight trumpet",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Everlight violin",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Folded-arm figurine (female)",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Folded-arm figurine (male)",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Saradominist II",
+    "Level": 72,
+    "Artefacts": [
+      {
+        "Name": "Dominion discus",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dominion javelin",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dominion pelte shield",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Bronze Dominion medal",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Silver Dominion medal",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Dominion torch",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Decorative vase",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Kantharos cup",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Patera bowl",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Saradominist III",
+    "Level": 100,
+    "Artefacts": [
+      {
+        "Name": "Dominarian device",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Fishing trident",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Amphora",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Rod of Asclepius",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Kopis dagger",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Xiphos short sword",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Saradominist IV",
+    "Level": 117,
+    "Artefacts": [
+      {
+        "Name": "'The Pride of Padosan' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Hallowed Be the Everlight' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'The Lord of Light' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'The Enlightened Soul' scroll",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'The Eudoxian Elements' tablet",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Doru spear",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Kontos lance",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zamorakian I",
+    "Level": 36,
+    "Artefacts": [
+      {
+        "Name": "Hookah pipe",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Opulent wine goblet",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Crest of Dagon",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Disorder' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Imp mask",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Lesser demon mask",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Greater demon mask",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Order of Dis robes",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ritual dagger",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zamorakian II",
+    "Level": 81,
+    "Artefacts": [
+      {
+        "Name": "Branding iron",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Manacles",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'The Lake of Fire' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Lust' metal sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Chaos star",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Spiked dog collar",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Larupia trophy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Lion trophy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "She-wolf trophy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zamorakian III",
+    "Level": 104,
+    "Artefacts": [
+      {
+        "Name": "'Torment' metal sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Torment' metal sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Hellfire haladie",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Hellfire katar",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Hellfire zaghnal",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Possession' metal sculpture",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Trishula",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Tsutsaroth piercing",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zamorakian IV",
+    "Level": 116,
+    "Artefacts": [
+      {
+        "Name": "Chaos Elemental trophy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Virius trophy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Tsutsaroth helm",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Tsutsaroth pauldron",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Tsutsaroth urumi",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zarosian I",
+    "Level": 25,
+    "Artefacts": [
+      {
+        "Name": "Venator dagger",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Venator light crossbow",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Legionary gladius",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Legionary square shield",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Primis Elementis standard",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Zaros effigy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Zarosian training dummy",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Legatus Maximus figurine",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Solem in Umbra' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zarosian II",
+    "Level": 81,
+    "Artefacts": [
+      {
+        "Name": "Ancient timepiece",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Legatus pendant",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Incite Fear' spell scroll",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Pontifex signet ring",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ceremonial mace",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Pontifex Maximus figurine",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Consensus ad Idem' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Pontifex censer",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Pontifex crozier",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Pontifex mitre",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zarosian III",
+    "Level": 107,
+    "Artefacts": [
+      {
+        "Name": "'Exsanguinate' spell scroll",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Necromantic focus",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Zarosian ewer",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Zarosian stein",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Smoke Cloud' spell scroll",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Vigorem vial",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ancient magic tablet",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Animate Dead' spell scroll",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Portable phylactery",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  },
+  {
+    "Name": "Zarosian IV",
+    "Level": 118,
+    "Artefacts": [
+      {
+        "Name": "Praetorian hood",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Praetorian robes",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Praetorian staff",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Ancient globe",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "Battle plans",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      },
+      {
+        "Name": "'Prima Legio' painting",
+        "DamagedAmount": 0,
+        "RepairedAmount": 0
+      }
+    ]
+  }
+]

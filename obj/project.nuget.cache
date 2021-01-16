@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jx0YYb+WEu305EpgEsv5seij7a3h3AryEPwXqpJ/vAhDPQfC8/UrVjB/Lxy3CXs7VlMqHNUFyEldLnSpvutETQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Runescape-Archeology-Tool\\Archeology_Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimzz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
