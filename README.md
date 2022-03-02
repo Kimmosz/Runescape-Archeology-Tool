@@ -1,7 +1,5 @@
 # Runescape-Archeology-Tool
-A console-based tool to manage your current Runescape Archeology collections. 
+RuneScape Archeology Tool is a console-based application to manage your current Runescape Archeology collections. The application is built with C#, and the progress is stored in JSON files.
 
-I am a Runescape 3 player and like to do the Archeology skill.
-Since I was using excel sheets to keep on track my collection progress, I was inspired to create a console-based tool.
-
-I will soon add the application to my Itch.io page where you can download and try it out: https://kimberlysalemink.itch.io/
+Motivation:
+I am a RuneScape 3 player, and I like the Archeology skill. Since I was using Excel sheets to keep track of my collection progress, I was inspired to create a small console-based tool.
